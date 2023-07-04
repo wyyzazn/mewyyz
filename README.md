@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img style="border-radius: 20px;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hi!;My+name+is+Victor%2C;Welcome+to+my+Profile" alt="Typing SVG" /></a>
 </h1>
 
-<img align="right" width="400" style="border-radius: 20px; margin-bottom: 10px;"  src="https://sun9-52.userapi.com/impg/FXKRgb0u5f32OfOnpMsh_CVUyYw71j6KE9qd_A/qkzC55oY8FY.jpg?size=736x736&quality=95&sign=fe0abfe6f960f292800787bdfb0c35cf&type=album">
+<img align="right" width="300" style="border-radius: 20px; margin-bottom: 10px;"  src="https://sun9-52.userapi.com/impg/FXKRgb0u5f32OfOnpMsh_CVUyYw71j6KE9qd_A/qkzC55oY8FY.jpg?size=736x736&quality=95&sign=fe0abfe6f960f292800787bdfb0c35cf&type=album">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wyyzazn&label=Profile%20views&color=0e75b6&style=flat" alt="wyyzazn" /> </p>
 
