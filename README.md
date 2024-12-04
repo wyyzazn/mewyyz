@@ -22,7 +22,6 @@
 <p align="left">
   <a href="https://github.com/wyyzazn"><img style="border-radius: 20px;" src="https://github-readme-stats.vercel.app/api?username=wyyzazn&show_icons=true&bg_color=000000&hide_title=true&hide_border=true&text_color=FFFFFF&icon_color=805AD5&theme=radical"></a>
 </p>
-<p><img align="center" style="border-radius: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=wyyzazn&show_icons=true&bg_color=000000&hide_title=true&hide_border=true&text_color=FFFFFF&icon_color=805AD5" alt="wyyzazn" /></p>
 
 
 
